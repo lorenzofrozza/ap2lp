@@ -1,0 +1,45 @@
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 15 LP - AP2\ap2\bin\Debug\net7.0\ap2.exe
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 15 LP - AP2\ap2\bin\Debug\net7.0\ap2.deps.json
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 15 LP - AP2\ap2\bin\Debug\net7.0\ap2.runtimeconfig.json
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 15 LP - AP2\ap2\bin\Debug\net7.0\ap2.dll
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 15 LP - AP2\ap2\bin\Debug\net7.0\ap2.pdb
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 15 LP - AP2\ap2\obj\Debug\net7.0\ap2.csproj.AssemblyReference.cache
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 15 LP - AP2\ap2\obj\Debug\net7.0\ap2.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 15 LP - AP2\ap2\obj\Debug\net7.0\ap2.AssemblyInfoInputs.cache
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 15 LP - AP2\ap2\obj\Debug\net7.0\ap2.AssemblyInfo.cs
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 15 LP - AP2\ap2\obj\Debug\net7.0\ap2.csproj.CoreCompileInputs.cache
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 15 LP - AP2\ap2\obj\Debug\net7.0\ap2.dll
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 15 LP - AP2\ap2\obj\Debug\net7.0\refint\ap2.dll
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 15 LP - AP2\ap2\obj\Debug\net7.0\ap2.pdb
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 15 LP - AP2\ap2\obj\Debug\net7.0\ap2.genruntimeconfig.cache
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 15 LP - AP2\ap2\obj\Debug\net7.0\ref\ap2.dll
+D:\ULBRA 2023-02\Lab. de Programação\AP2\bagunca\ap2\bin\Debug\net7.0\ap2.exe
+D:\ULBRA 2023-02\Lab. de Programação\AP2\bagunca\ap2\bin\Debug\net7.0\ap2.deps.json
+D:\ULBRA 2023-02\Lab. de Programação\AP2\bagunca\ap2\bin\Debug\net7.0\ap2.runtimeconfig.json
+D:\ULBRA 2023-02\Lab. de Programação\AP2\bagunca\ap2\bin\Debug\net7.0\ap2.dll
+D:\ULBRA 2023-02\Lab. de Programação\AP2\bagunca\ap2\bin\Debug\net7.0\ap2.pdb
+D:\ULBRA 2023-02\Lab. de Programação\AP2\bagunca\ap2\obj\Debug\net7.0\ap2.csproj.AssemblyReference.cache
+D:\ULBRA 2023-02\Lab. de Programação\AP2\bagunca\ap2\obj\Debug\net7.0\ap2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ULBRA 2023-02\Lab. de Programação\AP2\bagunca\ap2\obj\Debug\net7.0\ap2.AssemblyInfoInputs.cache
+D:\ULBRA 2023-02\Lab. de Programação\AP2\bagunca\ap2\obj\Debug\net7.0\ap2.AssemblyInfo.cs
+D:\ULBRA 2023-02\Lab. de Programação\AP2\bagunca\ap2\obj\Debug\net7.0\ap2.csproj.CoreCompileInputs.cache
+D:\ULBRA 2023-02\Lab. de Programação\AP2\bagunca\ap2\obj\Debug\net7.0\ap2.dll
+D:\ULBRA 2023-02\Lab. de Programação\AP2\bagunca\ap2\obj\Debug\net7.0\refint\ap2.dll
+D:\ULBRA 2023-02\Lab. de Programação\AP2\bagunca\ap2\obj\Debug\net7.0\ap2.pdb
+D:\ULBRA 2023-02\Lab. de Programação\AP2\bagunca\ap2\obj\Debug\net7.0\ap2.genruntimeconfig.cache
+D:\ULBRA 2023-02\Lab. de Programação\AP2\bagunca\ap2\obj\Debug\net7.0\ref\ap2.dll
+C:\Users\Lorenzo\Desktop\bagunca1\ap2\bin\Debug\net7.0\ap2.exe
+C:\Users\Lorenzo\Desktop\bagunca1\ap2\bin\Debug\net7.0\ap2.deps.json
+C:\Users\Lorenzo\Desktop\bagunca1\ap2\bin\Debug\net7.0\ap2.runtimeconfig.json
+C:\Users\Lorenzo\Desktop\bagunca1\ap2\bin\Debug\net7.0\ap2.dll
+C:\Users\Lorenzo\Desktop\bagunca1\ap2\bin\Debug\net7.0\ap2.pdb
+C:\Users\Lorenzo\Desktop\bagunca1\ap2\obj\Debug\net7.0\ap2.csproj.AssemblyReference.cache
+C:\Users\Lorenzo\Desktop\bagunca1\ap2\obj\Debug\net7.0\ap2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorenzo\Desktop\bagunca1\ap2\obj\Debug\net7.0\ap2.AssemblyInfoInputs.cache
+C:\Users\Lorenzo\Desktop\bagunca1\ap2\obj\Debug\net7.0\ap2.AssemblyInfo.cs
+C:\Users\Lorenzo\Desktop\bagunca1\ap2\obj\Debug\net7.0\ap2.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\Desktop\bagunca1\ap2\obj\Debug\net7.0\ap2.dll
+C:\Users\Lorenzo\Desktop\bagunca1\ap2\obj\Debug\net7.0\refint\ap2.dll
+C:\Users\Lorenzo\Desktop\bagunca1\ap2\obj\Debug\net7.0\ap2.pdb
+C:\Users\Lorenzo\Desktop\bagunca1\ap2\obj\Debug\net7.0\ap2.genruntimeconfig.cache
+C:\Users\Lorenzo\Desktop\bagunca1\ap2\obj\Debug\net7.0\ref\ap2.dll
